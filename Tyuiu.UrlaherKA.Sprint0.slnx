@@ -15,4 +15,9 @@
     <Project Path="Tyuiu.UrlaherKA.Sprint0.Task3.V0.Test/Tyuiu.UrlaherKA.Sprint0.Task3.V0.Test.csproj" />
     <Project Path="Tyuiu.UrlaherKA.Sprint0.Task3.V0/Tyuiu.UrlaherKA.Sprint0.Task3.V0.csproj" />
   </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.UrlaherKA.Sprint0.Task4.V0.Lib/Tyuiu.UrlaherKA.Sprint0.Task4.V0.Lib.csproj" />
+    <Project Path="Tyuiu.UrlaherKA.Sprint0.Task4.V0.Test/Tyuiu.UrlaherKA.Sprint0.Task4.V0.Test.csproj" />
+    <Project Path="Tyuiu.UrlaherKA.Sprint0.Task4.V0/Tyuiu.UrlaherKA.Sprint0.Task4.V0.csproj" />
+  </Folder>
 </Solution>
